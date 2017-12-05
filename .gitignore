@@ -1,0 +1,11 @@
+.idea
+.stack-work
+.cabal-sandbox/
+dist
+cabal.sandbox.config
+.env
+.vscode
+*.aux
+*.log
+*.out
+*.synctex.gz
