@@ -1,13 +1,13 @@
 name:                sf-env
 version:             0.1.0.0
--- synopsis:
--- description:
+-- synopsis:            Microsoft Service Fabric environment variables for Haskell applications
+description:         Microsoft Service Fabric environment variables for Haskell applications
 homepage:            https://github.com/paulrzcz/sf-env#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Pavel Ryzhov
 maintainer:          pavel.ryzhov@gmail.com
-copyright:           2017 (c) Pavel Ryzhov
+copyright:           Velrina s.r.o. 2017 (c) Pavel Ryzhov
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
